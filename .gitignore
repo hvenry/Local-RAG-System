@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+
+# IDE-related files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+# Ignore local embeddings
+/vectorstore

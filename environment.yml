@@ -1,0 +1,22 @@
+name: local_rag_system_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - faiss-cpu
+  - pip
+  - pip:
+      - langchain
+      - langchain-community
+      - langchain-core
+      - langchain-huggingface
+      - langchain_ollama
+      - ollama
+      - PyPDF2
+      - python-docx
+      - pandas
+      - sentence-transformers
+      - scikit-learn
+      - tiktoken
+      - torch
+      - pypdf

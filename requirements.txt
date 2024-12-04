@@ -1,0 +1,15 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+ollama
+PyPDF2
+python-docx
+pandas
+sentence-transformers
+scikit-learn
+tiktoken
+torch
+langchain_ollama
+pypdf
