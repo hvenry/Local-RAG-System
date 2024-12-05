@@ -2,6 +2,8 @@
 
 A local implementation of a Retrieval-Augmented Generation (RAG) pipeline using a local Llama 3.2 via Ollama. This project allows document-based question answering by integrating document loading, vector database storage, and a conversational retrieval system.
 
+![Screenshot](screenshots/local_rag_system.png)
+
 ## **Setup Instructions**
 
 ### 1. Clone the Repository
